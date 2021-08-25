@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/fridayback/wanlendV2-docs.git',
-  docsRepositoryBase: 'https://github.com/fridayback/wanlendV2-docs.git',
+  github: 'https://github.com/fridayback/wanlend-docs.git',
+  docsRepositoryBase: 'https://github.com/fridayback/wanlend-docs.git',
   titleSuffix: ' – WanLend Docs',
   logo: (
     <>
